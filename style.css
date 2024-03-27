@@ -1,0 +1,21 @@
+#grid{
+ width:600px;
+ height: 450px;
+ display: flex;
+ flex-wrap: wrap;
+ margin-left: 35%;
+ margin-top: 5%;
+}
+h3{
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    margin-left: 45%;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
